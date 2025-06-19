@@ -9,9 +9,9 @@ export Kernel_Version="6.1"
 export Security_Patch="2025-06"
 # Kernel_Suffix="" meaning just delete dirty suffix
 # or using custom suffix to replace it
-export Kernel_Suffix="ab13413027"
+export Kernel_Suffix=""
 # Kernel build Time
-export Kernel_Time="2025-06-17 02:03:44 UTC"
+export Kernel_Time="2025-06-11 01:23:45 UTC"
 
 echo
 echo -e "\e[32mKernel Information\e[0m"
